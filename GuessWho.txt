@@ -1,0 +1,24 @@
+Alex,No Hat,No Glasses,Male,Facial Hair,Not Bald,Black Hair
+Alfred,No Hat,No Glasses,Male,Facial Hair,Not Bald,Red Hair
+Anita,No Hat,No Glasses,Female,No Facial Hair,Not Bald,Blonde Hair
+Anne,No Hat,No Glasses,Female,No Facial Hair,Not Bald,Black Hai
+Bernard,Hat,No Glasses,Male,No Facial Hair,Not Bald,Brown Hair
+Bill,No Hat,No Glasses,Male,Facial Hair,Bald,Red Hair
+Charles,No Hat,No Glasses,Male,Facial Hair,Not Bald,Blonde Hair
+Claire,Hat,Glasses,Female,No Facial Hair,Not Bald,Red Hair
+David,No Hat,No Glasses,Male,Facial Hair,Not Bald,Blonde Hair
+Eric,Hat,No Glasses,Male,No Facial Hair,Not Bald,Blonde Hair
+Frans,No Hat,No Glasses,Male,No Facial Hair,Not Bald,Red Hair
+George,Hat,No Glasses,Male,No Facial Hair,Not Bald,White Hair
+Herman,No Hat,No Glasses,Male,No Facial Hair,Bald,Red Hair
+Joe,No Hat,Glasses,Male,No Facial Hair,Not Bald,Blonde Hair
+Maria,Hat,No Glasses,Female,No Facial Hair,Not Bald,Brown Hair
+Max,No Hat,No Glasses,Male,Facial Hair,Not Bald,Black Hair
+Paul,No Hat,Glasses,Male,No Facial Hair,Not Bald,White Hair
+Peter,No Hat,No Glasses,Male,No Facial Hair,Not Bald,White Hair
+Philip,No Hat,No Glasses,Male,Facial Hair,Not Bald,Black Hair
+Richard,No Hat,No Glasses,Male,Facial Hair,Bald,Brown Hair
+Robert,No Hat,No Glasses,Male,No Facial Hair,Not Bald,Brown Hair
+Sam,No Hat,Glasses,Male,No Facial Hair,Bald,White Hair
+Susan,No Hat,No Glasses,Female,No Facial Hair,Not Bald,White Hair
+Tom,No Hat,Glasses,Male,No Facial Hair,Bald,Black Hair
